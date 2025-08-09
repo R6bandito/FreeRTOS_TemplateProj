@@ -1,0 +1,12 @@
+..\objects\list.o: ..\RTOS\Src\list.c
+..\objects\list.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdlib.h
+..\objects\list.o: ..\RTOS\Inc\FreeRTOS.h
+..\objects\list.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stddef.h
+..\objects\list.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdint.h
+..\objects\list.o: ..\RTOS\Inc\FreeRTOSConfig.h
+..\objects\list.o: ..\RTOS\Inc\projdefs.h
+..\objects\list.o: ..\RTOS\Inc\portable.h
+..\objects\list.o: ..\RTOS\Inc\deprecated_definitions.h
+..\objects\list.o: ..\RTOS\Port\portmacro.h
+..\objects\list.o: ..\RTOS\Inc\mpu_wrappers.h
+..\objects\list.o: ..\RTOS\Inc\list.h

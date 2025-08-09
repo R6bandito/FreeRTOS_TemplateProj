@@ -1,0 +1,15 @@
+..\objects\event_groups.o: ..\RTOS\Src\event_groups.c
+..\objects\event_groups.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdlib.h
+..\objects\event_groups.o: ..\RTOS\Inc\FreeRTOS.h
+..\objects\event_groups.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stddef.h
+..\objects\event_groups.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdint.h
+..\objects\event_groups.o: ..\RTOS\Inc\FreeRTOSConfig.h
+..\objects\event_groups.o: ..\RTOS\Inc\projdefs.h
+..\objects\event_groups.o: ..\RTOS\Inc\portable.h
+..\objects\event_groups.o: ..\RTOS\Inc\deprecated_definitions.h
+..\objects\event_groups.o: ..\RTOS\Port\portmacro.h
+..\objects\event_groups.o: ..\RTOS\Inc\mpu_wrappers.h
+..\objects\event_groups.o: ..\RTOS\Inc\task.h
+..\objects\event_groups.o: ..\RTOS\Inc\list.h
+..\objects\event_groups.o: ..\RTOS\Inc\timers.h
+..\objects\event_groups.o: ..\RTOS\Inc\event_groups.h

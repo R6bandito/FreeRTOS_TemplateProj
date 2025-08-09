@@ -507,10 +507,10 @@ ARM Macro Assembler    Page 8
               00000200 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=.\startup_stm32f103xb.d -o.\startup_stm32f103xb.o -ID:\MDK\packs\K
-eil\STM32F1xx_DFP\1.0.4\Device\Include --predefine="__UVISION_VERSION SETA 539"
- --predefine="STM32F10X_MD SETA 1" --list=.\startup_stm32f103xb.lst ..\START\st
-artup_stm32f103xb.s
+ork --depend=..\objects\startup_stm32f103xb.d -o..\objects\startup_stm32f103xb.
+o -ID:\MDK\packs\Keil\STM32F1xx_DFP\1.0.4\Device\Include --predefine="__UVISION
+_VERSION SETA 539" --predefine="STM32F10X_MD SETA 1" --list=.\startup_stm32f103
+xb.lst ..\START\startup_stm32f103xb.s
 
 
 
