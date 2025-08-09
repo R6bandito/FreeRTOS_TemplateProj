@@ -1,0 +1,15 @@
+.\timers.o: ..\RTOS\Src\timers.c
+.\timers.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdlib.h
+.\timers.o: ..\RTOS\Inc\FreeRTOS.h
+.\timers.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stddef.h
+.\timers.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdint.h
+.\timers.o: ..\RTOS\Inc\FreeRTOSConfig.h
+.\timers.o: ..\RTOS\Inc\projdefs.h
+.\timers.o: ..\RTOS\Inc\portable.h
+.\timers.o: ..\RTOS\Inc\deprecated_definitions.h
+.\timers.o: ..\RTOS\Port\portmacro.h
+.\timers.o: ..\RTOS\Inc\mpu_wrappers.h
+.\timers.o: ..\RTOS\Inc\task.h
+.\timers.o: ..\RTOS\Inc\list.h
+.\timers.o: ..\RTOS\Inc\queue.h
+.\timers.o: ..\RTOS\Inc\timers.h

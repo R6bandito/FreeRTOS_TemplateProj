@@ -1,0 +1,14 @@
+.\heap_4.o: ..\RTOS\Port\heap_4.c
+.\heap_4.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdlib.h
+.\heap_4.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\string.h
+.\heap_4.o: ..\RTOS\Inc\FreeRTOS.h
+.\heap_4.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stddef.h
+.\heap_4.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdint.h
+.\heap_4.o: ..\RTOS\Inc\FreeRTOSConfig.h
+.\heap_4.o: ..\RTOS\Inc\projdefs.h
+.\heap_4.o: ..\RTOS\Inc\portable.h
+.\heap_4.o: ..\RTOS\Inc\deprecated_definitions.h
+.\heap_4.o: ..\RTOS\Port\portmacro.h
+.\heap_4.o: ..\RTOS\Inc\mpu_wrappers.h
+.\heap_4.o: ..\RTOS\Inc\task.h
+.\heap_4.o: ..\RTOS\Inc\list.h

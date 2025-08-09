@@ -1,0 +1,15 @@
+.\queue.o: ..\RTOS\Src\queue.c
+.\queue.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdlib.h
+.\queue.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\string.h
+.\queue.o: ..\RTOS\Inc\FreeRTOS.h
+.\queue.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stddef.h
+.\queue.o: D:\MDK\core\ARM\ARMCC\Bin\..\include\stdint.h
+.\queue.o: ..\RTOS\Inc\FreeRTOSConfig.h
+.\queue.o: ..\RTOS\Inc\projdefs.h
+.\queue.o: ..\RTOS\Inc\portable.h
+.\queue.o: ..\RTOS\Inc\deprecated_definitions.h
+.\queue.o: ..\RTOS\Port\portmacro.h
+.\queue.o: ..\RTOS\Inc\mpu_wrappers.h
+.\queue.o: ..\RTOS\Inc\task.h
+.\queue.o: ..\RTOS\Inc\list.h
+.\queue.o: ..\RTOS\Inc\queue.h
